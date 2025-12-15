@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "heart",
+  "base_artist": "Laura day romance",
+  "createdAt": "2025-12-15T17:38:33.610876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart of Courage",
+      "artist": "Thomas Bergersen feat. Two Steps from Hell",
+      "has_synced": true,
+      "path": "select/01_Heart_of_Courage_Thomas_Bergersen_feat._Two_Steps_from_Hell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heart of Courage",
+      "artist": "Thomas Bergersen, Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/02_Heart_of_Courage_Thomas_Bergersen,_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burning Heart",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/03_Burning_Heart_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cold Heart (PNAU Remix)",
+      "artist": "Elton John feat. Dua Lipa & PNAU",
+      "has_synced": true,
+      "path": "select/04_Cold_Heart_(PNAU_Remix)_Elton_John_feat._Dua_Lipa_&_PNAU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diamond Heart",
+      "artist": "Alan Walker feat. Sophia Somajo",
+      "has_synced": true,
+      "path": "select/05_Diamond_Heart_Alan_Walker_feat._Sophia_Somajo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diamond Heart",
+      "artist": "Sophia Somajo;Alan Walker",
+      "has_synced": true,
+      "path": "select/06_Diamond_Heart_Sophia_Somajo;Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel Your Heart",
+      "artist": "Protostar feat. Sam Tabor",
+      "has_synced": true,
+      "path": "select/07_Feel_Your_Heart_Protostar_feat._Sam_Tabor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feel Your Heart",
+      "artist": "Protostar, Sam Tabor",
+      "has_synced": true,
+      "path": "select/08_Feel_Your_Heart_Protostar,_Sam_Tabor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heart Like A Truck",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/09_Heart_Like_A_Truck_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heart On Fire",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/10_Heart_On_Fire_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heart Of Gold",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/11_Heart_Of_Gold_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Key to My Heart",
+      "artist": "Frank Vieira",
+      "has_synced": false,
+      "path": "select/12_Key_to_My_Heart_Frank_Vieira.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Owner Of A Lonely Heart",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/13_Owner_Of_A_Lonely_Heart_Yes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Dead Heart - 2007 Remastered",
+      "artist": "Midnight Oil",
+      "has_synced": true,
+      "path": "select/14_The_Dead_Heart_-_2007_Remastered_Midnight_Oil.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "When Your Heart Is Weak",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/15_When_Your_Heart_Is_Weak_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Trout Heart Replica",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/16_Trout_Heart_Replica_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Trout Heart Replica",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/17_Trout_Heart_Replica_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "heart",
+      "artist": "Laura day romance",
+      "has_synced": false,
+      "path": "select/pl_01_heart_Laura_day_romance.txt"
+    }
+  ]
+}
